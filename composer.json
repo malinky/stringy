@@ -4,12 +4,12 @@
   "keywords": [
     "string"
   ],
-  "homepage": "https://github.com/Seldaek/monolog",
+  "homepage": "https://github.com/malinky/stringy",
   "license": "MIT",
   "authors": [
     {
       "name": "Craig Ramsay",
-      "email": "craigdavidramsay@gmail.com",
+      "email": "craigdavidramsay@gmail.com"
     }
   ],
   "require": {
